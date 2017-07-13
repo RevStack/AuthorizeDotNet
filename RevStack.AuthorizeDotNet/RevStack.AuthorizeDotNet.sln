@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevStack.AuthorizeDotNet", "RevStack.AuthorizeDotNet.csproj", "{EB4532C7-3065-49FE-B6D7-8F02513444BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{DD8C2CFE-C36F-4ABF-993E-3321C8C15752}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{EB4532C7-3065-49FE-B6D7-8F02513444BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB4532C7-3065-49FE-B6D7-8F02513444BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB4532C7-3065-49FE-B6D7-8F02513444BD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DD8C2CFE-C36F-4ABF-993E-3321C8C15752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DD8C2CFE-C36F-4ABF-993E-3321C8C15752}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DD8C2CFE-C36F-4ABF-993E-3321C8C15752}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DD8C2CFE-C36F-4ABF-993E-3321C8C15752}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
