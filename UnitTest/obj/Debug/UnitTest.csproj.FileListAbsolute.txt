@@ -1,0 +1,9 @@
+C:\Dev\RevStack\AuthorizeDotNet\UnitTest\bin\Debug\UnitTest.dll
+C:\Dev\RevStack\AuthorizeDotNet\UnitTest\bin\Debug\UnitTest.pdb
+C:\Dev\RevStack\AuthorizeDotNet\UnitTest\bin\Debug\RevStack.AuthorizeDotNet.dll
+C:\Dev\RevStack\AuthorizeDotNet\UnitTest\bin\Debug\RevStack.Pattern.dll
+C:\Dev\RevStack\AuthorizeDotNet\UnitTest\bin\Debug\RevStack.Payment.dll
+C:\Dev\RevStack\AuthorizeDotNet\UnitTest\bin\Debug\RevStack.AuthorizeDotNet.pdb
+C:\Dev\RevStack\AuthorizeDotNet\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Dev\RevStack\AuthorizeDotNet\UnitTest\obj\Debug\UnitTest.dll
+C:\Dev\RevStack\AuthorizeDotNet\UnitTest\obj\Debug\UnitTest.pdb
